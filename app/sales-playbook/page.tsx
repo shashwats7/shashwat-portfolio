@@ -155,12 +155,12 @@ export default function SalesPlaybook() {
           </p>
 
           <h2 className="mt-4 text-3xl font-semibold">
-            Don't sell the call. Sell the next step.
+            Don&apos;t sell the call. Sell the next step.
           </h2>
 
           <p className="mt-4 max-w-3xl leading-7 text-gray-400">
             Your job as an appointment setter is to start genuine
-            conversations, understand the prospect's situation, determine
+            conversations, understand the prospect&apos;s situation, determine
             whether there is a fit, and make the next step easy.
           </p>
         </div>
