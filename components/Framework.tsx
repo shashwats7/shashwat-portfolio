@@ -9,20 +9,20 @@ export default function Framework() {
       text: "Great conversations reveal real pain points. I focus on listening more than talking.",
     },
     {
-      title: "03. Build Trust",
-      text: "People don't buy because they're pressured. They buy because they trust the person they're speaking with.",
+      title: "03. Qualify the Opportunity",
+      text: "I identify the prospect's needs, goals, urgency, and fit so time is focused on opportunities that genuinely make sense.",
     },
     {
-      title: "04. Recommend, Don't Push",
-      text: "I believe the right solution naturally creates the sale. My job is to guide, not convince.",
+      title: "04. Build Trust",
+      text: "People don't buy because they're pressured. They move forward when they trust the person they're speaking with.",
     },
     {
-      title: "05. Follow Up Consistently",
-      text: "Most opportunities are created through consistent communication rather than a single conversation.",
+      title: "05. Guide, Don't Push",
+      text: "I believe the right solution should feel like a natural next step. My job is to guide the conversation, not force the outcome.",
     },
     {
-      title: "06. Create Long-Term Relationships",
-      text: "My objective isn't just to book appointments. It's to build relationships that generate repeat business and long-term value.",
+      title: "06. Follow Up With Purpose",
+      text: "Consistent, relevant follow-up keeps good opportunities moving forward while respecting the prospect's time and decision process.",
     },
   ];
 
