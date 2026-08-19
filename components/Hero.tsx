@@ -43,7 +43,7 @@ export default function Hero() {
             </button>
 
             <button className="rounded-full border border-white/20 px-8 py-4 font-semibold text-white transition hover:border-green-400 hover:text-green-400">
-              Let's Talk
+              Let&apos;s Talk
             </button>
 
           </div>
