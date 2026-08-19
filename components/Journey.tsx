@@ -37,21 +37,21 @@ export default function Journey() {
             <div className="mt-8 grid gap-4 md:grid-cols-3">
 
               <div className="rounded-2xl bg-black p-6 border border-green-500/20">
-                <h4 className="text-3xl font-bold text-green-400">$1M+</h4>
+                <h4 className="text-3xl font-bold text-green-400">$900K+</h4>
                 <p className="mt-2 text-gray-400">
-                  Annual Sales Generated
+                  Annual Accounts Managed
                 </p>
               </div>
 
               <div className="rounded-2xl bg-black p-6 border border-green-500/20">
-                <h4 className="text-3xl font-bold text-green-400">400+</h4>
+                <h4 className="text-3xl font-bold text-green-400">200+</h4>
                 <p className="mt-2 text-gray-400">
                   B2B Customers
                 </p>
               </div>
 
               <div className="rounded-2xl bg-black p-6 border border-green-500/20">
-                <h4 className="text-3xl font-bold text-green-400">30+</h4>
+                <h4 className="text-3xl font-bold text-green-400">25-30</h4>
                 <p className="mt-2 text-gray-400">
                   Active Business Clients
                 </p>
