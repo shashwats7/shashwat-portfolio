@@ -7,17 +7,17 @@ export default function Contact() {
       <div className="mx-auto max-w-4xl">
 
         <p className="uppercase tracking-[0.3em] text-green-400">
-          Let's Connect
+          Let&apos;s Connect
         </p>
 
         <h2 className="mt-4 text-5xl font-bold">
-          Let's Build Something Great Together.
+          Let&apos;s Build Something Great Together.
         </h2>
 
         <p className="mx-auto mt-8 max-w-2xl text-lg leading-8 text-gray-300">
           Looking for someone who can represent your business professionally,
           build genuine relationships, and turn conversations into opportunities?
-          I'd love to connect.
+          I&apos;d love to connect.
         </p>
 
         <div className="mt-12 flex flex-col justify-center gap-5 sm:flex-row">
