@@ -1,15 +1,15 @@
 export default function Results() {
   const stats = [
     {
-      value: "$1M+",
-      label: "Annual Sales Generated",
+      value: "$900K++",
+      label: "Annual Accounts Managed",
     },
     {
-      value: "400+",
+      value: "200+",
       label: "B2B Customers Acquired",
     },
     {
-      value: "30+",
+      value: "25-30",
       label: "Active Business Clients Managed",
     },
     {
