@@ -16,7 +16,7 @@ export default function About() {
         </h2>
 
         <p className="text-lg text-gray-300 leading-8">
-          I'm Shashwat Singh Rana, an Appointment Setter and Customer
+          I&apos;m Shashwat Singh Rana, an Appointment Setter and Customer
           Relationship Specialist with experience in sales,
           ecommerce and client communication.
 
@@ -25,7 +25,7 @@ export default function About() {
           build trust, and turn conversations into booked appointments.
 
           Having built and scaled my own ecommerce brand,
-          I understand both the customer journey and the business owner's perspective.
+          I understand both the customer journey and the business owner&apos;s perspective.
         </p>
       </div>
     </section>
