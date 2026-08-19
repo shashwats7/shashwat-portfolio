@@ -24,8 +24,8 @@ export default function WhyHireMe() {
         </h2>
 
         <p className="mt-6 max-w-3xl text-lg leading-8 text-gray-300">
-          My goal isn't just to book meetings.
-          It's to create meaningful conversations that become
+          My goal isn&apos;t just to book meetings.
+          It&apos;s to create meaningful conversations that become
           long-term business relationships.
         </p>
 
