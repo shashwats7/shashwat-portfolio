@@ -1,7 +1,7 @@
 export default function Results() {
   const stats = [
     {
-      value: "$900K++",
+      value: "$900K+",
       label: "Annual Accounts Managed",
     },
     {
