@@ -39,7 +39,7 @@ export default function Journey() {
               <div className="rounded-2xl bg-black p-6 border border-green-500/20">
                 <h4 className="text-3xl font-bold text-green-400">$900K+</h4>
                 <p className="mt-2 text-gray-400">
-                  Annual Accounts Managed
+                  Annual Sales Volume Managed
                 </p>
               </div>
 
