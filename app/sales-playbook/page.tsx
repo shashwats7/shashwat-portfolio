@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-
+import Footer from "@/components/Footer";
 const sections = [
   {
     title: "Appointment Setting",
@@ -83,7 +83,14 @@ export default function SalesPlaybook() {
   return (
     <main className="min-h-screen bg-black text-white">
       <section className="mx-auto max-w-7xl px-6 py-20 md:px-10 lg:px-16">
-        <div className="max-w-4xl">
+  <a
+    href="/"
+    className="mb-10 inline-flex items-center rounded-full border border-white/15 px-5 py-2.5 text-sm font-medium text-gray-200 transition hover:border-green-400/50 hover:text-green-400"
+  >
+    ← Back to Home
+  </a>
+
+  <div className="max-w-4xl">
           <p className="mb-5 text-sm font-medium uppercase tracking-[0.35em] text-green-400">
             Conversation Library
           </p>
@@ -164,7 +171,17 @@ export default function SalesPlaybook() {
             whether there is a fit, and make the next step easy.
           </p>
         </div>
+              <div className="mt-12 text-center">
+          <a
+            href="/"
+            className="inline-flex items-center rounded-full bg-green-500 px-7 py-3 font-semibold text-black transition hover:bg-green-400"
+          >
+            Return to Portfolio →
+          </a>
+        </div>
       </section>
+
+      <Footer />
     </main>
   );
 }
