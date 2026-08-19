@@ -15,8 +15,8 @@ export default function Navbar() {
             Journey
           </a>
 
-          <a href="#case-study" className="hover:text-green-400 transition">
-            Case Study
+          <a href="#framework" className="hover:text-green-400 transition">
+            Sales Framework
           </a>
 
           <a href="#contact" className="hover:text-green-400 transition">
