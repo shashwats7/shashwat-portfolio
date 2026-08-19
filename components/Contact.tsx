@@ -23,11 +23,13 @@ export default function Contact() {
         <div className="mt-12 flex flex-col justify-center gap-5 sm:flex-row">
 
           <a
-            href="mailto:YOUR_EMAIL"
-            className="rounded-full bg-green-500 px-8 py-4 font-semibold text-black transition hover:scale-105"
-          >
-            Schedule an Interview
-          </a>
+  href="https://calendly.com/shashwats7/30min"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="rounded-full bg-green-500 px-8 py-4 font-semibold text-black transition hover:scale-105"
+>
+  Schedule an Interview
+</a>
 
           <a
             href="/resume.pdf"
