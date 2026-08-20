@@ -38,13 +38,19 @@ export default function Hero() {
 
           <div className="mt-10 flex flex-wrap gap-4">
 
-            <button className="rounded-full bg-green-500 px-8 py-4 font-semibold text-black transition hover:scale-105 hover:bg-green-400">
-              View My Experience
-            </button>
+            <a
+  href="#journey"
+  className="rounded-full bg-green-500 px-8 py-4 font-semibold text-black transition hover:scale-105 hover:bg-green-400"
+>
+  View My Experience
+</a>
 
-            <button className="rounded-full border border-white/20 px-8 py-4 font-semibold text-white transition hover:border-green-400 hover:text-green-400">
-              Let&apos;s Talk
-            </button>
+            <a
+  href="#contact"
+  className="rounded-full border border-white/20 px-8 py-4 font-semibold text-white transition hover:border-green-400 hover:text-green-400"
+>
+  Let&apos;s Talk
+</a>
 
           </div>
 
