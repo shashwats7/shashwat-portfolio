@@ -45,9 +45,21 @@ export default function Footer() {
 
       </div>
 
-      <div className="mt-10 border-t border-white/10 pt-6 text-center text-sm text-gray-500">
-        © 2026 Shashwat Singh Rana. All rights reserved.
-      </div>
+      <div className="mt-10 border-t border-white/10 pt-6 flex items-center justify-between text-sm text-gray-500">
+  <p>
+    © 2026 Shashwat Singh Rana. All rights reserved.
+  </p>
+
+  <a
+    href="https://www.linkedin.com/in/shashwat-singh-rana-29255574"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="LinkedIn"
+    className="flex h-10 w-10 items-center justify-center rounded-full border border-white/20 text-sm font-bold text-gray-400 transition hover:border-green-400 hover:text-green-400"
+  >
+    in
+  </a>
+</div>
     </footer>
   );
 }
