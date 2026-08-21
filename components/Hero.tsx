@@ -26,7 +26,7 @@ export default function Hero() {
           </h2>
 
           <p className="mt-3 text-xl text-green-400">
-            Appointment Setter
+            Appointment Setter • Sales Professional
           </p>
 
           <p className="mt-6 max-w-xl text-lg leading-8 text-gray-300">
