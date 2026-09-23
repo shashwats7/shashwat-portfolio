@@ -5,7 +5,7 @@ export default function Footer() {
 
         <div>
           <h3 className="text-2xl font-bold">
-            Shashwat Singh Rana
+            Shashwat Singh Rana (Shash)
           </h3>
 
           <p className="mt-2 text-gray-400">
@@ -47,9 +47,10 @@ export default function Footer() {
 
       <div className="mt-10 border-t border-white/10 pt-6 flex items-center justify-between text-sm text-gray-500">
   <p>
-    © 2026 Shashwat Singh Rana. All rights reserved.
+    © 2026 Shash. All rights reserved.
   </p>
 
+  <div className="flex items-center gap-3">
   <a
     href="https://www.linkedin.com/in/shashwat-singh-rana-29255574"
     target="_blank"
@@ -59,6 +60,17 @@ export default function Footer() {
   >
     in
   </a>
+
+  <a
+    href="https://www.instagram.com/settershash"
+    target="_blank"
+    rel="noopener noreferrer"
+    aria-label="Instagram"
+    className="flex h-10 w-10 items-center justify-center rounded-full border border-white/20 text-sm font-bold text-gray-400 transition hover:border-green-400 hover:text-green-400"
+  >
+    ig
+  </a>
+</div>
 </div>
     </footer>
   );
