@@ -22,7 +22,7 @@ export default function Hero() {
           </h1>
 
           <h2 className="mt-8 text-3xl font-bold">
-            Shashwat Singh Rana
+            Shashwat Singh Rana (Shash)
           </h2>
 
           <p className="mt-3 text-xl text-green-400">
