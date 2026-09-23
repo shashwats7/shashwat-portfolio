@@ -56,9 +56,16 @@ export default function Footer() {
     target="_blank"
     rel="noopener noreferrer"
     aria-label="LinkedIn"
-    className="flex h-10 w-10 items-center justify-center rounded-full border border-white/20 text-sm font-bold text-gray-400 transition hover:border-green-400 hover:text-green-400"
+    className="flex h-10 w-10 items-center justify-center rounded-full border border-white/20 text-gray-400 transition hover:border-green-400 hover:text-green-400"
   >
-    in
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 24 24"
+      fill="currentColor"
+      className="h-5 w-5"
+    >
+      <path d="M20.45 20.45h-3.56v-5.57c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.13 1.45-2.13 2.94v5.67H9.35V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.61 0 4.28 2.38 4.28 5.48v6.26zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM3.56 9h3.56v11.45H3.56V9z" />
+    </svg>
   </a>
 
   <a
@@ -66,9 +73,22 @@ export default function Footer() {
     target="_blank"
     rel="noopener noreferrer"
     aria-label="Instagram"
-    className="flex h-10 w-10 items-center justify-center rounded-full border border-white/20 text-sm font-bold text-gray-400 transition hover:border-green-400 hover:text-green-400"
+    className="flex h-10 w-10 items-center justify-center rounded-full border border-white/20 text-gray-400 transition hover:border-green-400 hover:text-green-400"
   >
-    ig
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="1.8"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className="h-5 w-5"
+    >
+      <rect x="3" y="3" width="18" height="18" rx="5" />
+      <circle cx="12" cy="12" r="4.2" />
+      <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none" />
+    </svg>
   </a>
 </div>
 </div>
